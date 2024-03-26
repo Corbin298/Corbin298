@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/zrdUjl6N99nLq/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/adriano-brizi">
+  <a href="https://www.linkedin.com/in/adriano-brizi/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge">
   </a>
   <a href="https://www.instagram.com/adriano_brizi/">
