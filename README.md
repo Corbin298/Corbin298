@@ -26,7 +26,7 @@ I am an Italian student at the University of Malta  <img src="https://media.giph
 - :zap: In my free time, I usually try to expand my knowledge and enhance multi-tasking abilities.
 ---
 
-### :hammer_and_wrench: Languages and Tools LVL: Beginning-Intermediate 
+### :hammer_and_wrench: Languages and Tools LVL: Beginner-Intermediate 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
