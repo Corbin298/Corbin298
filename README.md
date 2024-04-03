@@ -18,7 +18,7 @@
 </div>
 ---
 
-### :atom: About Me:atom:
+### :atom: About Me :atom:
 I am an Italian student at the University of Malta  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ3cTZzYmhidGM5MWt2ODc3aHFxM3gwM21ocm9tcDhyeDMyejl3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVNJ7x7Ul3wIbjIhkA/giphy.gif" width="30"> 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVrd2FxNXE4dzJ2bGVtMHgyN3UxemE5MHV2eno3ajBobGQxNXcyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ysqfUmlM0Lmg/giphy.gif" width="30"> 
 - :telescope: I am currently attending my bachelor in Business and IT
