@@ -23,7 +23,8 @@ I am an Italian student at the University of Malta  <img src="https://media.giph
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVrd2FxNXE4dzJ2bGVtMHgyN3UxemE5MHV2eno3ajBobGQxNXcyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ysqfUmlM0Lmg/giphy.gif" width="30"> 
 - :telescope: I am currently attending my bachelor in Business and IT
 - :seedling: Been fortunate enough to live in different countries (Italy, Greece, and now Malta)
-- :zap: In my free time, I usually try to expand my knowledge and enhance multi-tasking abilities.
+- :zap: In my free time, I usually try to expand my knowledge and enhance multi-tasking abilities
+- ☣️: Currently working as IT administrator intern in GiG (Gaming innovation Group)
 ---
 
 ### :hammer_and_wrench: Languages and Tools LVL: Beginner-Intermediate 
